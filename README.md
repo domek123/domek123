@@ -1,9 +1,9 @@
 ## About Me:
-- 🔭 Currently working as full-stack developer in Luqam
-- 📚 Studying at AGH University (Computer Science)
-- ⚡️ My motto: "No problem is unsolvable with a little creativity and fun."
-
-- 🌱 Some side projects in progress
+🔭 Currently working as full-stack developer in Luqam </br>
+📚 Studying at AGH University (Computer Science)</br>
+⚡️ My motto: "No problem is unsolvable with a little creativity and fun."</br>
+ 🌱 Some side projects in progress</br>
+ 
 ## 💻 Technologies
 
 | Frontend | Backend | Mobile | Database | Others |
