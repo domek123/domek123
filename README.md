@@ -1,5 +1,5 @@
 ## About Me:
-🔭 Currently working as full-stack developer in Luqam </br>
+🔭 Open to new opportunities </br>
 📚 Studying at AGH University (Computer Science)</br>
 ⚡️ My motto: "No problem is unsolvable with a little creativity and fun."</br>
  🌱 Some side projects in progress</br>
